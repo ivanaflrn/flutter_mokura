@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054783553032",
+    "project_id": "mokura-13dbd",
+    "storage_bucket": "mokura-13dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054783553032:android:8f0dc3c67edcd901f39bbd",
+        "android_client_info": {
+          "package_name": "com.example.mokura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7D6RJlWdrObT1nY-T6s_hqsGry9xC5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
